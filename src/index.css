@@ -1,0 +1,24 @@
+* {
+	margin: 0;
+	padding: 0;
+ 
+	box-sizing: border-box;
+}
+
+
+body {
+	top: 0 !important;
+	background-color: #1B263B;
+  margin: 0;
+  font-family: 'SF Pro Display', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+ 
+ .skiptranslate {
+	display: none !important;
+	height: 0 !important;
+ }
+  
+ 
+ 
